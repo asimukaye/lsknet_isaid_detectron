@@ -1,0 +1,6 @@
+/output
+/__pycache__
+*.code-workspace
+/pretrained_weights
+*.ipynb
+*.pth
